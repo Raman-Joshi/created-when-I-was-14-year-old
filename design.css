@@ -1,0 +1,132 @@
+
+.above{
+  background-image: url("01.jpg");
+  width: 100%;
+  height:780px;
+}
+
+.name{
+  text-align: center;
+  padding-top: 150px;
+  font-size: 30px;
+  font-family: 'Caveat', cursive;
+}
+
+.para-above{
+  font-family: 'Balsamiq Sans', cursive;
+  text-align: center;
+  font-size: 20px;
+
+}
+
+.image{
+  padding-top: 7%;
+  padding-left: 25%;
+}
+
+.mid{
+  padding-top: 3%;
+  padding-left: 45%;
+  border-radius: 40px;
+}
+
+.mid-p{
+  padding-left: 35%;
+  font-size: 20px;
+  font-family: cursive;
+}
+
+.skill{
+  font-family: 'MuseoModerno', cursive;
+  font-size: 35px;
+  margin-top: 5%;
+  color: #777a7a;
+  text-align: center;
+}
+
+.code{
+  margin-top: 100px;
+  margin-left: 10%;
+}
+
+.code-h{
+  font-size:25px;
+  font-family:'Kanit', sans-serif;
+}
+
+.code-para{
+  color: #343636;
+  font-family: 'Sriracha', cursive;
+  margin-top:-240px;
+  margin-right: 150px;
+  float:right;
+}
+
+.demo{
+  font-family: 'MuseoModerno', cursive;
+  font-size: 35px;
+  margin-top: 5%;
+  margin-left: 5%;
+  color: #777a7a;
+  text-align: center;
+}
+
+.web{
+padding-left: 150px;
+}
+
+.web-link{
+  font-family:'Kanit', sans-serif;
+  padding-right: 300px;
+  padding-top: 150px;
+  font-size: 30px;
+float: right;
+text-decoration: none;
+}
+
+.web2-image{
+padding-left: 200px;
+padding-top: 100px;
+}
+
+.web-link2{
+  font-family:'Kanit', sans-serif;
+  padding-left: 100px;
+  padding-top: 200px;
+  font-size: 30px;
+  text-decoration: none;
+float: left;
+}
+
+.btn{
+  font-size: 25px;
+  text-decoration: none;
+  background-color: #04a4b0;
+  color: white;
+  border-radius: 5px;
+  padding: 5px;
+  font-family: 'Dosis', sans-serif;
+}
+
+.contact-btn{
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 10px;
+}
+
+.btn:hover{
+  background-color: #04cad9;
+}
+
+.last-contact{
+  padding-top: 10px;
+  width: 100%;
+  padding-bottom: 3em;
+  background-color: #0c9a9c;
+  color: #c9d1d1;
+  text-decoration: none;
+}
+a{
+  margin-right: 50px;
+  text-align: center;
+}
